@@ -20,7 +20,6 @@ Table of contents
 7. [Copy mode](#copy-mode)
 8. [Clipboard integration](#clipboard-integration)
 9. [Themes and customization](#themes-and-customization)
-10. [iTerm2 and tmux integration](#iterm2-and-tmux-integration)
 
 Features
 ---------
@@ -261,8 +260,10 @@ I've started with Powerline as a status line, but then realized it's too fat for
 So I decide to make my feet wet, with the idea to keep it dense, and include essential widgets. Sometimes it tries to replicate OSX topbar (battery, date time).
 
 Left part:
+![left](https://user-images.githubusercontent.com/19916930/129307411-9012b0b4-72b5-4a8b-a241-9f254978e4ef.PNG)
 
 Right part:
+![right](https://user-images.githubusercontent.com/19916930/129307427-ac231f57-4c30-40e1-a9fe-b31936109168.PNG)
 
 The left part contains only current session name.
 The right part contains CPU & Memory Usage, username@hostname, tun0 IP (if connected to VPN) and battery indicator.
